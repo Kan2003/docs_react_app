@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+  font-family: "Beatrice Medium";
+}
+
+::selection{
+  color: rgb(36, 71, 60);
+}
